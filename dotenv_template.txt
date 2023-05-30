@@ -1,0 +1,6 @@
+CHANNEL_ID=999999999
+CLIENT_ID="xxxxxxxxxxxxxxxxxxxxxx"
+AUTH_TOKEN="xxxxxxxxxxxxxxxxxxxxxx"
+ELEVENLABS_API_KEY="xxxxxxxxxxxxxxxxxxxxxx"
+INDICATOR="11io"
+FREE_PASS_USERS="bemoor"
